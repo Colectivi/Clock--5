@@ -1,0 +1,14 @@
+body{
+  background-image: url("image/Clockimg.jpg");
+  background-size: 100%;
+  color: #33CCAF;
+  font-family: sans-serif;
+}
+
+h2{
+   display: inline;
+}
+  
+#start {
+   margin-top: 10px;
+}
